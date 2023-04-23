@@ -1,3 +1,3 @@
 # simulation-and-modeling-analysis
 
-In progresss
+Use the 900x700 resolution to see all of the statistics
